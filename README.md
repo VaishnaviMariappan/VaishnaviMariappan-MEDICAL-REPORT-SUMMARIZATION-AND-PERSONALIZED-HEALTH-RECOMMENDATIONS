@@ -63,6 +63,10 @@ The medical report summarization and recommendation system's system design uses 
 ##### Doctor Recommendation: 
 ![WhatsApp Image 2025-02-21 at 12 25 38_66a0bbc2](https://github.com/user-attachments/assets/96c6d484-0470-4c71-9cd1-907f56c1fa2a)
 
+##### Frontend Visualization:
+![WhatsApp Image 2025-02-28 at 19 58 24_838e0f15](https://github.com/user-attachments/assets/0ca6eed7-71d5-4eaf-b255-0bbba3c58f78)
+
+
 
 ## RESULTS AND IMPACT: 
 The Medical Report Summarizer and Recommendation System is a transformative solution that leverages Natural Language Processing (NLP) and machine learning to enhance the efficiency and accuracy of medical data interpretation. By converting complex, unstructured medical reports into concise, structured summaries and providing relevant recommendations, the system assists healthcare professionals in making informed decisions while improving patient understanding of their health conditions.
